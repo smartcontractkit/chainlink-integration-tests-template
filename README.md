@@ -7,7 +7,11 @@ Use this template directory as a quick start to writing your own Chainlink tests
 
 ## Make Commands
 
-`make 
+`make go_mod`
+
+`make test_environments`
+
+`make test_contracts`
 
 ## Crucial Libraries
 
