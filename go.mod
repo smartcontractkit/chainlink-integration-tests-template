@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/rs/zerolog v1.26.1
-	github.com/smartcontractkit/helmenv v1.0.60
+	github.com/smartcontractkit/helmenv v1.1.61
 	github.com/smartcontractkit/integrations-framework v1.1.1
 	github.com/stretchr/testify v1.7.1
 	github.com/test-go/testify v1.1.4
